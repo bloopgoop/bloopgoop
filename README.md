@@ -1,6 +1,6 @@
 ## **Hey! I'm Kevin Zhu**
 
-I'm a __*software developer*__ based in New York City and I'm currently learning __*web development*__.
+I'm a __*full stack web developer*__.
 
 ### **Skills**
 
@@ -31,7 +31,6 @@ I'm a __*software developer*__ based in New York City and I'm currently learning
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bloopgoop&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/bloopgoop)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bloopgoop&theme=dark&exclude_days=Sun%2CSat&fire=EB5454&excludeDaysLabel=EB5454)](https://git.io/streak-stats)
 
 ### **Contact Information**
 
